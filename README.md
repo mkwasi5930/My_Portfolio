@@ -1,6 +1,7 @@
 
-TECHNICAL WRITING
 How to Build  Portfolio Using Html and CSS.
+
+
 Table of contents
 Article Description
 Article Title
@@ -11,7 +12,8 @@ Conclusion
 References and Resources
 
 
-Article Description
+Article Description:
+
 Inthis article we are going to build a simple personal portfolio using HTML ,CSS and Javascript. It will help us have better understanding of the HTML ,CSS and Javascript.
 
 Article Title
