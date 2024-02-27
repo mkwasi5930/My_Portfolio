@@ -1,0 +1,130 @@
+    .bod{
+        background-attachment: fixed;
+        background-color: blanchedalmond;
+    }
+    .link{
+        text-align: right;
+        font-size: 20px;
+    }
+    .head{
+        text-align: left;
+        font-size: 30px;
+    }
+    .cont{
+        text-align: right;
+        padding-top: 10px;
+
+    }
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    img{
+        float: left;
+        max-width: 100%;
+        max-height: 100%;
+        padding-top: 20px;
+        padding-left: 20px;
+        
+    }
+    .text{
+        font-size: 25px;
+        padding-left: 50px;
+        padding-top: 20px;
+        float: left;
+    }
+    .box{
+        display: flex;
+        align-items: center;
+        justify-content: center;   
+    }
+    .conte{
+        font-size: 20px;
+        padding-left: 50px;
+        padding-top: 20px;
+        float: left;
+
+    }
+    h1{
+        font-size: 25px;
+
+    }
+   .footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(66, 158, 150);
+    color: black;
+    bottom: 0;
+    padding-top: 0px;
+    padding-bottom: 10px;
+   }
+
+   .newslatter form{
+    padding: auto;
+    width: 450px;
+    max-width: 100%;
+    position: relative;
+}
+.newslatter form input:first-child{
+    display: inline-block;
+    width: 100%;
+    padding: 14px 130px 14px 15px;
+    border: 2px solid #f9004d;
+    outline: none;
+    border-radius: 30px;
+}
+.newslatter form input:last-child{
+    position: absolute;
+    display: inline-block;
+    outline: none;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    background-color: #f9004d;
+    color: white;
+    top: 6px;
+    right: 6px;
+    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
+
+}
+
+.bodi{
+    background-attachment: fixed;
+    background-color: azure;
+}
+.imag{
+    float: left;
+    top: 0px;
+    max-width: 50%;
+    max-height: 100%;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.bdy{
+    background-attachment: fixed;
+    background-color: antiquewhite;
+}
+.imge{
+    float: left;
+    max-width: 50%;
+    max-height: 50%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 200px;
+}
+
+@media only screen and (max-width: 100%) {
+    .text {font-size: 11px}
+}
+
+.soci{
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+    float: left;
+
+}
+
